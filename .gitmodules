@@ -12,3 +12,7 @@
 	path = NutShell
 	url = https://github.com/OSCPU/NutShell
 	branch = difftest
+[submodule "OpenOCD"]
+	path=riscv-openocd
+	url=https://github.com/riscv/riscv-openocd
+	branch=riscv
